@@ -23,9 +23,9 @@ This repository provides a clean and modular folder structure template for build
 ## 🚀 Getting Started
 
 **Clone the repository**
-ß
-git clone https://github.com/yourusername/fastapi_folder_structure.git
-cd fastapi_folder_structure
+
+* git clone https://github.com/devabdurasul/fastapi-project-structure.git
+* cd fastapi_project_structure
 
 
 ## 🔧 Key Features
