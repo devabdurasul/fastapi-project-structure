@@ -1,0 +1,1 @@
+If using SQLAlchemy, Alembic is a popular choice for handling database migrations.
