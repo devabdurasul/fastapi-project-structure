@@ -5,46 +5,7 @@ This repository provides a clean and modular folder structure template for build
 
 ## 📁 Project Structure Overview
 
-`fastapi_folder_structure/
-├── app/
-│   ├── __init__.py
-│   ├── main.py            # Entry point of the application
-│   ├── core/
-│   │   ├── __init__.py
-│   │   ├── config.py       # Configuration and settings
-│   │   └── security.py     # Authentication and security functions
-│   ├── api/
-│   │   ├── __init__.py
-│   │   ├── api_v1/
-│   │   │   ├── __init__.py
-│   │   │   ├── endpoints/
-│   │   │   │   ├── __init__.py
-│   │   │   │   └── items.py
-│   │   │   └── router.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   └── item.py
-│   ├── schemas/
-│   │   ├── __init__.py
-│   │   └── item.py
-│   ├── crud/
-│   │   ├── __init__.py
-│   │   └── item.py
-│   ├── db/
-│   │   ├── __init__.py
-│   │   ├── base.py
-│   │   └── session.py
-│   ├── tests/
-│   │   ├── __init__.py
-│   │   └── test_items.py
-│   └── utils/
-│       ├── __init__.py
-│       └── helpers.py
-├── .env
-├── .gitignore
-├── requirements.txt
-├── README.md
-└── alembic/`
+![img.png](explorer.png)
 
 ### Folder Details
 
